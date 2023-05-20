@@ -1,2 +1,2 @@
 # html-repository
-a completely begginer study about html
+a completely beginner study about html
